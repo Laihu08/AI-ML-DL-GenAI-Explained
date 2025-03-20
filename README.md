@@ -35,6 +35,18 @@ Foundation Models like **Large Language Models (LLMs)** power various AI applica
 🔹 **Other Use Cases:** AI-powered chatbots, AI-driven coding assistants  
 
 ---
+## 📌 6. Timeline of AI Development
+Understanding the evolution of AI helps in grasping its impact over the decades:
+
+- **1950s** – AI as an academic discipline begins; Alan Turing proposes the Turing Test.
+- **1960s-1970s** – Early AI research; expert systems and rule-based AI gain traction.
+- **1980s** – Rise of expert systems; Lisp and Prolog programming languages are widely used.
+- **1990s** – Machine Learning gains popularity; AI-powered chess computer Deep Blue beats world champion Garry Kasparov.
+- **2000s** – AI applications in speech recognition, search engines, and recommendation systems emerge.
+- **2010s** – Rise of Deep Learning; self-driving cars, facial recognition, and AI assistants (Siri, Alexa, Google Assistant) become mainstream.
+- **2020s** – Generative AI revolution; large language models (ChatGPT), deepfakes, and AI-powered creativity tools dominate.
+
+---
 ## 🎯 Conclusion
 ✅ AI is already embedded in our daily lives, from chatbots to smart recommendations.  
 ✅ Understanding AI helps us **use it wisely, recognize its impact, and prepare for future innovations**.  
